@@ -5,25 +5,30 @@
 ## Installation
 
 ```
-npm install
+yarn install
 ```
 
 ## Usage
 
 ```
-npm start
+yarn start
+```
+
+## Build the project for production
+
+```
+yarn build
 ```
 
 ## Features
 
-The assets were taken from http://www.fay.com/it-it/
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+- Components written with React Hooks
+- The assets are generated randomly with [Faker.js](https://github.com/marak/Faker.js)
+- Styled with [Ant-Design](https://ant.design/) and [Styled-Components](https://www.styled-components.com/)
+- Routing: [HookRouter](https://github.com/paratron/hookrouter)
+- Global State Management: [Easy-Peasy](https://github.com/ctrlplusb/easy-peasy)
 
-Components written with Hooks.
+## Visit Demo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-Styled with [Ant-Design](https://ant.design/) and [Styled-Components](https://www.styled-components.com/).
-
-Global State Management with [Easy-Peasy](https://github.com/ctrlplusb/easy-peasy)
-
-Deployed on Github-Pages here: https://todstest.github.io/tods-test/
+https://todstest.github.io/tods-test/
