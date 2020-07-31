@@ -31,4 +31,4 @@ yarn build
 
 ## Visit Demo
 
-https://todstest.github.io/tods-test/
+https://andreapontrandolfo.github.io/react-ecommerce-demo/
